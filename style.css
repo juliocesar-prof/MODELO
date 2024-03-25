@@ -1,19 +1,4 @@
-@charset "UTF-8";
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@font-face {
-    font-family: idroid;
-    src: url(../fontes/idroid.otf);
-    font-weight: normal;
-}
-/*
-#c5ebd6
-#83e1ad
-#3ddc84
-#2fa866
-#1a5c37
-#063d1e
-*/
-
+<style>
 
 #home {
     background-color: var(--cor4);
@@ -208,3 +193,4 @@ footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
+<style>
